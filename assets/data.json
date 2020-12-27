@@ -1,65 +1,67 @@
 {
     "home": {
         "title": "Dheeraj Soni",
-        "hero": "An exceptionally creative individual with strong analytical skills. Always Looking forward to work with great people. Keen interest in innovation and new challenges. Offering outstanding ability to work with various programming languages, including Java, Python, Typescript. Ready to be contribute in open-source projects."
+        "hero": "Looking forward to a challenging job in a reputable organization to utilize my problem solving  and development skills for the growth of the organization and myself."
     },
     "sections": [{
-            "title": "Experiance",
+            "title": "Experience",
             "card": [{
                     "title": "Software Engineer",
                     "subTitle": "Persistent Systems (Nagpur)",
                     "subTitleRiht": "July 2019 - Present",
-                    "summary": "Data Anlysis, Python (Numpy and Pandas), Angular "
+                    "summary": "Risk management platform - Understanding the complex requirement of the project and a part of brainstorming session for providing solutions, Perform various POC, Implementing in scripts and Rest APIs with Single Page application"
                 },
                 {
                     "title": "Mobile Vision Research",
                     "titleRight": "Intern",
                     "subTitle": "Transpacks, NCFlexe, IIT Kanpur",
                     "subTitleRiht": "Jun 2018 - Apr 2020 ",
-                    "summary": "Android App Development  image Processing, Android Camera API1 and API2 Integration "
+                    "summary": "Design and deployment of various image matching algorithms on smaller and fixed size images, Android Camera API1 and API2 Integration"
                 },
                 {
                     "title": "Android and Backend Developer",
+                    "titleRight": "Intern",
                     "subTitle": "Lazy Design (Virtual)",
                     "subTitleRiht": "Feb 2018 - Mar 2018",
-                    "summary": "Android app upgrade, desing improvment and backend (Nodejs)"
+                    "summary": "Android app upgrade, design improvement and backend development (Nodejs)"
                 },
                 {
                     "title": "Android App Development ",
+                    "titleRight": "Intern",
                     "subTitle": "Krip Technologies (Virtual)",
                     "subTitleRiht": "Apr 2017 - Jul 2017 ",
-                    "summary": "Krip is a startup (online auto booking and bargaining). I have developed user interface of Android app along with the crash reports and app debugging"
+                    "summary": "Basic Android application development with Google Maps API and Rest API integration"
                 }
             ]
         },
         {
-            "title": "Skils",
+            "title": "Skills",
             "fullCard": [{
                     "title": "Java",
                     "rating": 80,
                     "titleRight": {
                         "title": "Last Worked",
-                        "value": "Apr 2019"
+                        "value": "Sept 2019"
                     },
                     "summary": "Core Java, Collections, Multi-Threading",
                     "miniCard": [{
                         "title": "Android",
                         "rating": 60,
-                        "subTitle": "UI and API Integration",
-                        "summary": "Did many Android projects, UI develment, API integration, Camera API1 & API2 "
+                        "subTitle": "UI and API Integration, Multi-Threading",
+                        "summary": "UI development, API integration, Camera API1 & API2 "
                     }]
                 },
                 {
                     "title": "Python",
-                    "rating": 70,
+                    "rating": 80,
                     "titleRight": {
                         "title": "Last Worked",
                         "value": "Present"
                     },
-                    "summary": "Data analysis, Basic ML Works, Flask backend",
+                    "summary": "Data analysis, Basic ML Works, Rest API using Flask",
                     "miniCard": [{
-                            "title": "Data Analyis and ML",
-                            "rating": 40,
+                            "title": "Data Analysis and ML",
+                            "rating": 60,
                             "subTitle": "Data aggregation and EDA",
                             "summary": "Data Aggregation, filtering and EDA, basic ML models regression and classification"
                         },
@@ -67,7 +69,7 @@
                             "title": "Flask",
                             "rating": 30,
                             "subTitle": "Rest API",
-                            "summary": "Rest API using Flask for basic work and ML model Deployement."
+                            "summary": "Rest API using Flask for basic work and ML model Deployment."
                         }
                     ]
                 },
@@ -81,11 +83,11 @@
                     "miniCard": [{
                             "title": "Node.js",
                             "rating": 80,
-                            "subTitle": "Expressjs",
-                            "summary": "Rest API using Expressjs, Mongodb/SQL"
+                            "subTitle": "Express.js",
+                            "summary": "Rest API using Express.js, Mongodb/SQL"
                         },
                         {
-                            "title": "Angular 7",
+                            "title": "Angular 7/8",
                             "rating": 80,
                             "subTitle": "Single Page Application",
                             "summary": "Single Page application using Angular. Integration of Bootstrap and Angular Material"
@@ -97,46 +99,45 @@
                     "miniCard": [{
                             "title": "Data Structures and Algorithms ",
                             "rating": 70,
-                            "subTitle": "MySQL",
-                            "summary": "Good At Data Structures and Algorithms. Do Competitive Programmer in free time"
+                            "summary": "Good At Data Structures and Algorithms. Competitive Programming in free time"
                         },
                         {
                             "title": "SQL DB",
                             "rating": 60,
-                            "subTitle": "MySQL",
-                            "summary": "Worked on SQl Db in Basic Projects"
+                            "subTitle": "MySQL/MSSQL",
+                            "summary": "Worked on SQL DB in Basic Projects using ORM"
                         },
                         {
                             "title": "NoSQL DB",
                             "rating": 60,
                             "subTitle": "MongoDB",
-                            "summary": "Worked on No SQl Db in Nodejs and other projects, worked with Mongoose  to handle MongoDb in Nodejs Projects"
+                            "summary": "Worked on No-SQL DB in Nodejs and other projects, Mongoose to handle MongoDb in Nodejs Projects"
                         },
                         {
                             "title": "HTML & CSS",
                             "rating": 60,
-                            "summary": "Web Page desing and basic styling using css, Adavance style using bootstrap"
+                            "summary": "Web Page design and basic styling using css, Advance style using bootstrap"
                         },
                         {
                             "title": "Git",
                             "rating": 90,
-                            "summary": "Maintaining code with git, work with github, gitlab, bitbucket."
+                            "summary": "Maintaining code with git, worked with github, Gitlab, bitbucket."
                         },
                         {
                             "title": "IDE",
                             "rating": 70,
-                            "summary": "Android Studio, VS Code, Eclipese, pyCharm"
+                            "summary": "Android Studio, VS Code, Eclipse, pyCharm"
                         },
                         {
                             "title": "OS",
                             "rating": 70,
-                            "summary": "Worked On Windows, Mac, Linux. I prefer Linux System for development"
+                            "summary": "Worked On Windows, Mac, Linux. prefer Linux System for development"
                         },
                         {
                             "title": "IOT",
                             "rating": 60,
                             "subTitle": "Arduino and Raspberry Pi ",
-                            "summary": "Working on automation is my Hobby. Worked on Home Automation and using IOT devices like relay, sensors Motors etc."
+                            "summary": "Working on automation is my Hobby. Worked on Home Automation and using IOT devices like relay, sensors (PIR, IR, ultrasonic etc), servo motor,brushed and brush-less Motors etc."
                         }
                     ]
                 }
@@ -163,7 +164,7 @@
                     "titleRight": "2012",
                     "subTitle": "Kendriya Vidyalaya Singrauli",
                     "subTitleRiht": " 8.80/10",
-                    "summary": "Android app upgrade, desing improvment and backend (Nodejs)"
+                    "summary": ""
                 }
             ]
         },
@@ -171,19 +172,7 @@
             "title": "Contact",
             "fullCard": [{
                 "icons": {
-                    "display": [{
-                            "fa_class": "fa fa-calendar",
-                            "text": "20-02-1996"
-                        },
-                        {
-                            "fa_class": "fa fa-map-marker",
-                            "text": "Singrauli, M.P."
-                        },
-                        {
-                            "fa_class": "fa fa-envelope",
-                            "text": "dhrjsoni01@gmail.com"
-                        }
-                    ],
+                    "display": [],
                     "links": [{
                             "fa_class": "fa fa-envelope",
                             "link": "mailto:dhrjsoni01@gmail.com"
