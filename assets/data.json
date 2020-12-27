@@ -23,14 +23,14 @@
                     "titleRight": "Intern",
                     "subTitle": "Lazy Design (Virtual)",
                     "subTitleRiht": "Feb 2018 - Mar 2018",
-                    "summary": "Android app upgrade, design improvement and backend development (Nodejs)"
+                    "summary": "Design improvement and backend development (Nodejs)"
                 },
                 {
                     "title": "Android App Development ",
                     "titleRight": "Intern",
                     "subTitle": "Krip Technologies (Virtual)",
                     "subTitleRiht": "Apr 2017 - Jul 2017 ",
-                    "summary": "Basic Android application development with Google Maps API and Rest API integration"
+                    "summary": "Android application development with 3rd party API/Library like Google Maps API and Rest API integration"
                 }
             ]
         },
@@ -58,18 +58,18 @@
                         "title": "Last Worked",
                         "value": "Present"
                     },
-                    "summary": "Data analysis, Basic ML Works, Rest API using Flask",
+                    "summary": "Data analysis, Basic ML models, Rest API using Flask",
                     "miniCard": [{
                             "title": "Data Analysis and ML",
                             "rating": 60,
                             "subTitle": "Data aggregation and EDA",
-                            "summary": "Data Aggregation, filtering and EDA, basic ML models regression and classification"
+                            "summary": "Data aggregation, filtering and EDA, basic ML models, regression and classification"
                         },
                         {
                             "title": "Flask",
                             "rating": 30,
                             "subTitle": "Rest API",
-                            "summary": "Rest API using Flask for basic work and ML model Deployment."
+                            "summary": "Rest API using Flask"
                         }
                     ]
                 },
@@ -90,7 +90,7 @@
                             "title": "Angular 7/8",
                             "rating": 80,
                             "subTitle": "Single Page Application",
-                            "summary": "Single Page application using Angular. Integration of Bootstrap and Angular Material"
+                            "summary": "Single Page Application using Angular. Integration of Bootstrap and Angular Material"
                         }
                     ]
                 },
@@ -99,24 +99,24 @@
                     "miniCard": [{
                             "title": "Data Structures and Algorithms ",
                             "rating": 70,
-                            "summary": "Good At Data Structures and Algorithms. Competitive Programming in free time"
+                            "summary": "Good at data structures and algorithms. Competitive programming in free time"
                         },
                         {
                             "title": "SQL DB",
                             "rating": 60,
                             "subTitle": "MySQL/MSSQL",
-                            "summary": "Worked on SQL DB in Basic Projects using ORM"
+                            "summary": "Worked on SQL DB in basic projects using ORM"
                         },
                         {
                             "title": "NoSQL DB",
                             "rating": 60,
                             "subTitle": "MongoDB",
-                            "summary": "Worked on No-SQL DB in Nodejs and other projects, Mongoose to handle MongoDb in Nodejs Projects"
+                            "summary": "Worked on No-SQL DB in Nodejs and other projects, Mongoose to handle MongoDb in Nodejs projects"
                         },
                         {
                             "title": "HTML & CSS",
                             "rating": 60,
-                            "summary": "Web Page design and basic styling using css, Advance style using bootstrap"
+                            "summary": "Web page design and basic styling using css, Advance style using bootstrap"
                         },
                         {
                             "title": "Git",
@@ -131,7 +131,7 @@
                         {
                             "title": "OS",
                             "rating": 70,
-                            "summary": "Worked On Windows, Mac, Linux. prefer Linux System for development"
+                            "summary": "Worked on Windows, Mac, Linux. Prefer Linux system for development"
                         },
                         {
                             "title": "IOT",
